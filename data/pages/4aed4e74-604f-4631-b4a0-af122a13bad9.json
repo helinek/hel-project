@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-11-12T17:09:49.344Z",
+  "created_by": "helinek",
+  "title": "Event One",
+  "slug": "event-one",
+  "updated_at": "2024-11-12T17:09:49.344Z",
+  "updated_by": "helinek",
+  "parent": "2830bb02-4782-4cac-b8c8-52313ade0fab",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "d4df44ef-e623-46d1-bdbe-5181a836496e"
+  }
+}
